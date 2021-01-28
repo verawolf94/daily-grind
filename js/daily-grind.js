@@ -55,12 +55,12 @@ switch(myDay){
         today = "Monday";
 
         coffee = {
-            color: "pink",
+            color: "lavender",
             name: "Bubble Tea",
             pic: "images/bubble-tea.jpg",
-            alt: "A pic of bubble tea",
+            alt: "Bubble tea image",
             day: "Monday",
-            desc: `I love Bubble Tea!`
+            desc: `Best Bubble Tea!`
         };
     break;
 
@@ -68,12 +68,12 @@ switch(myDay){
         today = "Tuesday";
 
         coffee = {
-            color: "blue",
+            color: "brown",
             name: "Cold Brew",
             pic: "images/cold-brew.jpg",
             alt: "A pic of Cold Brew Coffee",
             day: "Tuesday",
-            desc: `What do you call it when you walk into a coffee shop and feel like you’ve been there before? Déja-brew`
+            desc: `For the coffee lovers! A nice glass of cold brew.`
         };
     break;
 
@@ -81,12 +81,12 @@ switch(myDay){
         today = "Wednesday";
 
         coffee = {
-            color: "brown",
-            name: "Drip",
+            color: "black",
+            name: "Black Drip Coffee",
             pic: "images/drip.jpg",
             alt: "A pic of a drip coffee",
             day: "Wednesday",
-            desc: `Some days you just need the drip!`
+            desc: `Keep it nice & simple!`
         };
     break;
 
@@ -94,12 +94,12 @@ switch(myDay){
         today = "Thursday";
 
         coffee = {
-            color: "red",
+            color: "pink",
             name: "Frappaccino",
             pic: "images/frappaccino.jpg",
-            alt: "A pic of frappaccino",
+            alt: "A picture of frappaccino",
             day: "Thursday",
-            desc: `What’s coffee's favorite Bob Marley song? Don’t Worry, Be Frappé.`
+            desc: `For your sweet tooth`
         };
     break;
 
@@ -107,12 +107,12 @@ switch(myDay){
         today = "Friday";
 
         coffee = {
-            color: "green",
+            color: "blue",
             name: "Mocha",
             pic: "images/mocha.jpg",
             alt: "A pic of Mocha",
             day: "Friday",
-            desc: `You mocha me very happy.`
+            desc: `A cute cup of mocha`
         };
     break;
 
@@ -125,15 +125,11 @@ switch(myDay){
             pic: "images/pumpkin-spice-latte.jpg",
             alt: "A pic of Pumpkin Spice Latte",
             day: "Saturday",
-            desc: `With coffee a little extra pumpkin do a latte good.`
+            desc: `Spooky seasons favorite drink!.`
         };
     break;
 
     
-
-
-
-
 }
 
 //console.log(urlParams);
